@@ -1,0 +1,33 @@
+.botIcon {
+  position: relative;
+  bottom: 30px;
+  padding: 0 10px;
+}
+
+.textWrapper {
+  background-color: lightblue;
+  margin: 10px 0 0 50px;
+  padding: 10px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+.optionText {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.inputText {
+  background-color: lightgray;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: flex-end;
+}

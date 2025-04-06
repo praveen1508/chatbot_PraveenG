@@ -1,0 +1,20 @@
+.container {
+  border: 1px solid black;
+  width: 600px;
+  height: 500px;
+  border-radius: 5px;
+  overflow: auto;
+  margin: auto;
+}
+
+.header {
+  background-color: blue;
+  color: white;
+  padding: 10px 0;
+}
+
+.botIcon {
+  position: relative;
+  top: 5px;
+  padding: 0 10px;
+}
